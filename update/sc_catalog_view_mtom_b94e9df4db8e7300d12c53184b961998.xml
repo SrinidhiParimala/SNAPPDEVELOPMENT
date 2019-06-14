@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="College">f62e5174db8e7300d12c53184b961985</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 15:40:13</sys_created_on>
+        <sys_id>b94e9df4db8e7300d12c53184b961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>College.catalog_college</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_college">f94e9df4db8e7300d12c53184b961997</sys_portal_page>
+        <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_b94e9df4db8e7300d12c53184b961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 15:40:13</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

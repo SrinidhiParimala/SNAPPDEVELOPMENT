@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_366662_sinduit_sriindu12">x_366662_sinduit_sriindu12</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SRI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 09:46:59</sys_created_on>
+        <sys_id>29d3cb5cdb8e3300d12c53184b961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SRI</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+        <sys_update_name>sys_number_29d3cb5cdb8e3300d12c53184b961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 09:46:59</sys_updated_on>
+    </sys_number>
+</record_update>

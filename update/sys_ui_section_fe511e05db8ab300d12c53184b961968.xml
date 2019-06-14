@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fe511e05db8ab300d12c53184b961968" sys_domain="global" table="x_366662_sinduit_sugg" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sugg1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 16:41:50</sys_created_on>
+            <sys_id>42f5360ddbcab300d12c53184b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366662_sinduit_sugg" sys_domain="global" view="Default view">fe511e05db8ab300d12c53184b961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 16:41:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 16:41:50</sys_created_on>
+            <sys_id>c2f5360ddbcab300d12c53184b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366662_sinduit_sugg" sys_domain="global" view="Default view">fe511e05db8ab300d12c53184b961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 16:41:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 16:41:50</sys_created_on>
+            <sys_id>46f5360ddbcab300d12c53184b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366662_sinduit_sugg" sys_domain="global" view="Default view">fe511e05db8ab300d12c53184b961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 16:41:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 16:41:50</sys_created_on>
+            <sys_id>c6f5360ddbcab300d12c53184b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366662_sinduit_sugg" sys_domain="global" view="Default view">fe511e05db8ab300d12c53184b961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 16:41:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_1</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 16:41:50</sys_created_on>
+            <sys_id>4af5360ddbcab300d12c53184b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366662_sinduit_sugg" sys_domain="global" view="Default view">fe511e05db8ab300d12c53184b961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 16:41:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_2</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 16:41:50</sys_created_on>
+            <sys_id>caf5360ddbcab300d12c53184b96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366662_sinduit_sugg" sys_domain="global" view="Default view">fe511e05db8ab300d12c53184b961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 16:41:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_366662_sinduit_sugg</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 14:01:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe511e05db8ab300d12c53184b961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366662_sinduit_sugg</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+            <sys_update_name>sys_ui_section_fe511e05db8ab300d12c53184b961968</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 14:01:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

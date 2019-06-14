@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="INDUIT3 Service Catalog3">72215720db4a7300d12c53184b9619bc</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:20</sys_created_on>
+        <sys_id>a681db20db4a7300d12c53184b96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INDUIT3 Service Catalog3.catalog_induit3_service_catalog3</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_induit3_service_catalog3">a681db20db4a7300d12c53184b96190c</sys_portal_page>
+        <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_a681db20db4a7300d12c53184b96190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:20</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

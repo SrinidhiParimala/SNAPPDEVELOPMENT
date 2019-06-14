@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="SINDU Sales Laptop">7d525760db4a7300d12c53184b96199c</sc_cat_item>
+        <sc_catalog display_value="INDUIT3 Service Catalog3">72215720db4a7300d12c53184b9619bc</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:30:27</sys_created_on>
+        <sys_id>a1b21f60db4a7300d12c53184b961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INDUIT3 Service Catalog3.SINDU Sales Laptop</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a1b21f60db4a7300d12c53184b961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:30:27</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

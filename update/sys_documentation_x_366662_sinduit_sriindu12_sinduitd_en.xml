@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sinduitd" label="SINDUITD" language="en" table="x_366662_sinduit_sriindu12">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sinduitd</element>
+            <help/>
+            <hint/>
+            <label>SINDUITD</label>
+            <language>en</language>
+            <name>x_366662_sinduit_sriindu12</name>
+            <plural>SINDUITDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:57:25</sys_created_on>
+            <sys_id>ea3647dcdb8e3300d12c53184b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SINDUITD</sys_name>
+            <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+            <sys_update_name>sys_documentation_x_366662_sinduit_sriindu12_sinduitd_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:57:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

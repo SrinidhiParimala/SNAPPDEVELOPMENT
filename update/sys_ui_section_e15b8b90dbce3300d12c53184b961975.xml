@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="user info" section_id="e15b8b90dbce3300d12c53184b961975" sys_domain="global" table="x_366662_sinduit_sriindu12" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_journal_2</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:19:46</sys_created_on>
+            <sys_id>715b8b90dbce3300d12c53184b9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366662_sinduit_sriindu12" sys_domain="global" view="Default view">e15b8b90dbce3300d12c53184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:19:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_3</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:19:46</sys_created_on>
+            <sys_id>f15b8b90dbce3300d12c53184b9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366662_sinduit_sriindu12" sys_domain="global" view="Default view">e15b8b90dbce3300d12c53184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:19:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:19:46</sys_created_on>
+            <sys_id>755b8b90dbce3300d12c53184b9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366662_sinduit_sriindu12" sys_domain="global" view="Default view">e15b8b90dbce3300d12c53184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:19:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:19:46</sys_created_on>
+            <sys_id>f55b8b90dbce3300d12c53184b9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366662_sinduit_sriindu12" sys_domain="global" view="Default view">e15b8b90dbce3300d12c53184b961975</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:19:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>user info</caption>
+            <header>false</header>
+            <name>x_366662_sinduit_sriindu12</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:19:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e15b8b90dbce3300d12c53184b961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>user info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SINDUIT" source="x_366662_sinduit">e5db7118dbca3300d12c53184b9619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SINDUIT">e5db7118dbca3300d12c53184b9619f4</sys_scope>
+            <sys_update_name>sys_ui_section_e15b8b90dbce3300d12c53184b961975</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:19:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
